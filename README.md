@@ -14,6 +14,19 @@ $ docker --version
 Docker version 19.03.2, build 6a30dfc
 ```
 
+### Steps to get the next holiday!
+1- Build the image and get the container running on port 9090
+
+``` 
+$ docker build -t proximo-feriado .
+$ docker run --name feriado -d -p 9090:80 proximo-feriado
+```
+
+2- Go to http://localhost:9090/ 
+
+3- You got the next holiday!
+![Alt text](./assets/eg-ss.png)
+<img src="./assets/eg-ss.png">
 
 ## License
 
