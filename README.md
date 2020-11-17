@@ -1,6 +1,6 @@
 # Proximo Feriado
 
-A simple Dockerfile to get the next holiday on Argentina 
+A simple Dockerfile to get the next holiday on Argentina using http://nolaborables.com.ar/api
 
 
 
