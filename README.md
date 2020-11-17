@@ -25,7 +25,7 @@ $ docker run --name feriado -d -p 9090:80 proximo-feriado
 2- Go to http://localhost:9090/ 
 
 3- You got the next holiday!
-![Alt text](./assets/eg-ss.png)
+
 <img src="./assets/eg-ss.png">
 
 ## License
