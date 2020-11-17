@@ -2,7 +2,6 @@
 
 A simple Dockerfile to get the next holiday on Argentina 
 
-![Docker Small](./0-orientation/horizontal_small.png) 
 
 
 ### Pre Requisites
